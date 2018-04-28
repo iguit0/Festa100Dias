@@ -11,7 +11,7 @@ problema consiste em diferentes tipos de clientes realizando acessos simultâneo
 
 O presente trabalho tem como objetivo implementar um programa concorrente, utilizando a linguagem
 de programação Python, que faça o controle de concorrência entre diversos processos que são disparados
-simultaneamente. O programa implementado utilizara objetos da classe Condition() encontrada na biblioteca
+simultaneamente. O programa implementado utilizara objetos da classe **Condition()** encontrada na biblioteca
 threading, padrão do Python.
 
 ## Problema :mag:
