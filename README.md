@@ -1,4 +1,4 @@
-# Festa100Dias :tada::money_with_wings::bank:
+<h1 align="center">Festa100Dias :tada::money_with_wings::bank: </h1>
 
 Mecanismos de controle de concorrência foram desenvolvidos originalmente para a solução de problemas
 de sistemas operacionais. Contudo, na contemporaneidade, diversos domínios de problemas incluem mais
